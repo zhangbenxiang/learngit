@@ -10,6 +10,7 @@ dev
 dev
 
 
+<<<<<<< HEAD
 master
 master
 master
@@ -17,3 +18,12 @@ master
 featurel
 featurel
 
+=======
+
+
+
+
+
+
+dedededededede
+>>>>>>> dev
